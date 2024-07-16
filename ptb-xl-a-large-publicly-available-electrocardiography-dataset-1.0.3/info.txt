@@ -1,0 +1,1 @@
+In this directory you should have the ptb-xl database 1.03. You can download it here: ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3
