@@ -1,0 +1,1 @@
+Binary image classification model for the bachelor's thesis. I use a CNN for classification of images in two classes, Normal and Abnormal, based on the ground truth of the dataset. This model reaches an F1-Score of 0.82
